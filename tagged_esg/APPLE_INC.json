@@ -1,0 +1,122 @@
+[
+  {
+    "company":"APPLE INC",
+    "year":"2016",
+    "item":"item_1",
+    "text":"These include assistance that is built into software products, printed and electronic product manuals, online support including comprehensive product information as well as technical assistance, the AppleCare Protection Plan (“APP”) and the AppleCare+ Protection Plan (“AC+”)",
+    "esg_label":"Social",
+    "esg_score":0.916
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Apple Pay allows users to pay for purchases in stores accepting contactless payments and to pay for purchases within participating apps on qualifying devices",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Apple Watch enables users to communicate in new ways from their wrist, track their health and fitness through activity and workout apps, and includes Siri and Apple Pay",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2016",
+    "item":"item_1",
+    "text":"All developers, even those who are not developer program members, can sign in with their Apple ID to post on the Apple Developer Forums and use Xcode®, the Company’s integrated development environment for creating apps for Apple platforms",
+    "esg_label":"Social",
+    "esg_score":0.871
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2017",
+    "item":"item_1",
+    "text":"These include assistance that is built into software products, electronic product manuals, online support including comprehensive product information as well as technical assistance, the AppleCare® Protection Plan (“APP”) and AppleCare+ (“AC+”)",
+    "esg_label":"Social",
+    "esg_score":0.938
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2017",
+    "item":"item_1",
+    "text":"APP and AC+ offer additional coverage under some circumstances for instances of accidental damage and are available in certain countries for certain products.\nApple Pay\nApple Pay is the Company’s cashless payment service available in certain countries that offers an easy, secure and private way to pay",
+    "esg_label":"Social",
+    "esg_score":0.912
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Apple Pay allows users to pay for purchases in participating stores accepting contactless payments and to pay for purchases within participating apps on qualifying devices",
+    "esg_label":"Social",
+    "esg_score":0.881
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Apple Watch enables users to communicate in new ways from their wrist, track their health and fitness through activity and workout apps, and includes Siri and Apple Pay",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2017",
+    "item":"item_1",
+    "text":"All developers, even those who are not developer program members, can sign in with their Apple ID to post on the Apple Developer Forums and use Xcode®, the Company’s integrated development environment for creating apps for Apple platforms",
+    "esg_label":"Social",
+    "esg_score":0.871
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1",
+    "text":"These include assistance that is built into software products, electronic product manuals, online support including comprehensive product information as well as technical assistance, AppleCare + (“AC+”) and the AppleCare® Protection Plan (“APP”)",
+    "esg_label":"Social",
+    "esg_score":0.945
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Additionally, AC+ with theft and loss protection is available for iPhone in the U.S.\nApple Pay\nApple Pay is the Company’s cashless payment service available in certain countries that offers an easy, secure and private way to pay",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Apple Pay allows users to pay for purchases in participating stores accepting contactless payments and to pay for purchases within participating apps on qualifying devices",
+    "esg_label":"Social",
+    "esg_score":0.881
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Apple Watch enables users to communicate from their wrist, track their health and fitness through activity and workout apps, and includes Siri and Apple Pay",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1",
+    "text":"All developers, even those who are not developer program members, can sign in with their Apple ID to post on the Apple Developer Forums and use Xcode®, the Company’s integrated development environment for creating apps for Apple platforms",
+    "esg_label":"Social",
+    "esg_score":0.871
+  },
+  {
+    "company":"APPLE INC",
+    "year":"2018",
+    "item":"item_1A",
+    "text":"Global climate change could result in certain types of natural disasters occurring more frequently or with more intense effects",
+    "esg_label":"Environmental",
+    "esg_score":0.937
+  }
+]

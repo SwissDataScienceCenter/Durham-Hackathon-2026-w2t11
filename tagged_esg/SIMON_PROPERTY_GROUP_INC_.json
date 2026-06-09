@@ -1,0 +1,130 @@
+[
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Simon has adopted governance principles governing the function, conduct, selection, orientation and duties of its\nsubsidiaries and Simon’s Board of Directors and the Company, as well as written charters for each of the standing Committees of Simon’s Board of Directors",
+    "esg_label":"Governance",
+    "esg_score":0.898
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"In addition, Simon’s Board of Directors has a Code of Business Conduct and Ethics, which applies to all of its officers, directors, and employees and those of its subsidiaries",
+    "esg_label":"Governance",
+    "esg_score":0.862
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Approximately 1,000 of these employees were located at our corporate headquarters in Indianapolis, Indiana.\nWe believe our employees are the driving force behind our success",
+    "esg_label":"Social",
+    "esg_score":0.965
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"To ensure we continue to attract, develop and retain the best talent across the organization, we invest in our employees and provide equal opportunities",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We offer a variety of ongoing talent programs that foster continual development, high performance and overall organizational effectiveness, including a series of leadership development programs",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We conduct an annual talent-assessment process for selected business functions within our corporate and field organizations that includes plans for individual employee career development and long-term leadership succession, and also conduct an annual performance appraisal process for all regular employees.\nWe are focused on providing a work environment that is free from any form of discrimination or harassment for any protected class and also embraces a code of conduct",
+    "esg_label":"Social",
+    "esg_score":0.97
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Reuille serves as Simon’s Senior Vice President and Chief Accounting Officer and prior to that as Simon’s Vice President and Corporate Controller",
+    "esg_label":"Governance",
+    "esg_score":0.856
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Governments and other authorities could respond to epidemics, pandemics or other health crises, by imposing or re-imposing measures intended to control the spread of disease, including restrictions on freedom of movement, group gatherings and business operations\nsuch as travel bans, border closings, business closures, quarantines, stay-at-home, shelter-in-place orders, density limitations and social distancing measures",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Additionally, the occurrence of natural disasters at our corporate headquarters or one of our satellite offices could affect our ability to carry on business functions that are critical to our financial and operational viability.\nWe face risks associated with climate change.\nDue to changes in weather patterns caused by climate change, our properties in certain markets including Florida, California, Texas and New York, where we derive a material amount of our share of NOI could experience increases in storm intensity, storm frequency and be impacted by rising sea levels",
+    "esg_label":"Environmental",
+    "esg_score":0.862
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"federal, state and local environmental laws and regulations regarding hazardous or toxic substances, this belief is based on limited testing",
+    "esg_label":"Environmental",
+    "esg_score":0.957
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"We have adopted certain generative AI tools into our systems for specific use cases reviewed by legal and information security",
+    "esg_label":"Social",
+    "esg_score":0.937
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Where a generative AI or machine learning model ingests our proprietary information and makes connections using such data, those technologies may reveal other sensitive, proprietary, or confidential information generated by the model",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Further, bad actors around the world use increasingly sophisticated methods, including the use of AI, to engage in illegal activities involving the theft and misuse of personal information, confidential information, and intellectual property",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"Risk Factors.\nCybersecurity Governance\nOur Board of Directors considers cybersecurity risk as critical to the enterprise and delegates the cybersecurity risk oversight function to the Audit Committee",
+    "esg_label":"Governance",
+    "esg_score":0.919
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"The Audit Committee oversees and is regularly updated on management’s design, implementation and enforcement of our cybersecurity risk management program",
+    "esg_label":"Governance",
+    "esg_score":0.929
+  },
+  {
+    "company":"SIMON PROPERTY GROUP INC.",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"The Audit Committee is composed of board members with varied expertise including, risk management, technology, and finance, equipping them to oversee cybersecurity risks.\nOur Chief Financial Officer periodically provides reports to the Audit Committee, and, together with our Chief Technology Officer and Director of Cybersecurity, leads the Company’s overall cybersecurity function",
+    "esg_label":"Governance",
+    "esg_score":0.921
+  }
+]

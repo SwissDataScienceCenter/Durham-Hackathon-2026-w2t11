@@ -1,0 +1,2938 @@
+[
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Professional designers use them to create visual effects in movies and design products ranging from soft drink bottles to commercial aircraft",
+    "esg_label":"Social",
+    "esg_score":0.96
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Deep learning enables computers to learn for themselves and perform tasks, like recognizing images, text and speech - in some cases better than humans",
+    "esg_label":"Social",
+    "esg_score":0.983
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"These devices will be designed to ensure our safety and the safety of those around us, enhance our comfort and enjoyment, and search and navigate",
+    "esg_label":"Social",
+    "esg_score":0.986
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"We work with developers worldwide who write programs for the CUDA platform using various high-level programming languages",
+    "esg_label":"Social",
+    "esg_score":0.898
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015",
+    "esg_label":"Social",
+    "esg_score":0.962
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2016",
+    "item":"item_7",
+    "text":"We also shipped cuDNN 3.0, which improves performance of deep learning training on GPUs.\nFurther, we announced that the Swiss Federal Office of Meteorology and Climatology was the first major national weather service to use a GPU-accelerated supercomputer to improve daily forecasts",
+    "esg_label":"Social",
+    "esg_score":0.894
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself, enables computers to learn from data and serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.944
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"We have invested over $13 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.933
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions and simulated environments",
+    "esg_label":"Social",
+    "esg_score":0.952
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"It also greatly increases the performance and power efficiency of high-performance computers and datacenter systems",
+    "esg_label":"Environmental",
+    "esg_score":0.898
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"In the past year alone, GPUs have sped up training of deep neural networks for AI by as much as 12x.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to surveying coral on the sea bottom, to identifying the physical world for the blind",
+    "esg_label":"Social",
+    "esg_score":0.959
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading cloud services companies such as Facebook, Amazon and Baidu, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in disruptive ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"We have partnered with industry leaders such as Microsoft, IBM and SAP to bring AI to enterprise users",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI.\nTo enable deep learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks",
+    "esg_label":"Social",
+    "esg_score":0.921
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"They have already had a significant impact on scientific discovery, including improving heart surgery, HIV research and mapping human genome folds",
+    "esg_label":"Social",
+    "esg_score":0.871
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.977
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Our DRIVE PX platform scales from a palm-sized, energy efficient module for AutoCruise automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.947
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end GPU computing platform for deep learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.908
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and more than a thousand startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to design, train, and deploy neural network-powered machine learning in applications",
+    "esg_label":"Social",
+    "esg_score":0.986
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015",
+    "esg_label":"Social",
+    "esg_score":0.962
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_1",
+    "text":"He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2017",
+    "item":"item_7",
+    "text":"We also collaborated with Microsoft to accelerate AI with a GPU-accelerated Microsoft Cognitive Toolkit available on the Microsoft Azure cloud and NVIDIA DGX-1, partnered with the National Cancer Institute and the U.S",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We have extended our focus in recent years to the revolutionary field of artificial intelligence, or AI",
+    "esg_label":"Social",
+    "esg_score":0.916
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We have invested over $15 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.932
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"In 2017, NVIDIA’s GPU computing supported the Nobel Prize-winning discoveries in physics and chemistry.\nThe world’s leading cloud service providers use our GPUs to enable, accelerate or enrich the services they deliver to billions of end-users, including search, social networking, online shopping, live video, translation, AI assistants, navigation, and cloud computing.\nA rapidly growing number of enterprises and startups use our GPUs to facilitate deep learning that meets, and in several cases surpasses, human perception, in fields ranging from radiology to precision agriculture",
+    "esg_label":"Social",
+    "esg_score":0.919
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions, and simulated environments",
+    "esg_label":"Social",
+    "esg_score":0.948
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"It also greatly increases the performance and power efficiency of high-performance computers and datacenter systems",
+    "esg_label":"Environmental",
+    "esg_score":0.898
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"In the past year alone, GPUs have sped up training of deep neural networks for AI by as much as 12x.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to enabling fraud detection in financial services, to optimizing oil exploration and drilling",
+    "esg_label":"Social",
+    "esg_score":0.975
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading cloud services companies such as Amazon, Baidu, and Facebook, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in disruptive ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.939
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We have partnered with industry leaders such as IBM, Microsoft, and SAP to bring AI to enterprise users",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI.\nTo enable deep learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks",
+    "esg_label":"Social",
+    "esg_score":0.921
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"They have already had a significant impact on scientific discovery, including improving heart surgery, mapping human genome folds, seismic modeling, and weather simulations.\nAccelerated computing is recognized as the path forward for computing amid the slowing of Moore’s Law",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"AI can also be a co-pilot, assisting the human driver in creating a safer driving experience.\nNVIDIA is working with over 320 automakers, tier-one suppliers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Our DRIVE PX platform scales from a palm-sized, energy-efficient module for AutoCruise automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.893
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end GPU computing platform for deep learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.908
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"There are over 700,000 CUDA developers worldwide who write programs using CUDA to help deploy our technology in our target markets",
+    "esg_label":"Social",
+    "esg_score":0.953
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and more than 2,000 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to\ndesign, train, and deploy neural network-powered machine learning in applications",
+    "esg_label":"Social",
+    "esg_score":0.986
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving.\nLeveraging our intellectual property",
+    "esg_label":"Social",
+    "esg_score":0.895
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our GPU and CUDA platforms",
+    "esg_label":"Social",
+    "esg_score":0.967
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015",
+    "esg_label":"Social",
+    "esg_score":0.962
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1",
+    "text":"He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2018",
+    "item":"item_7",
+    "text":"We also announced several new partnerships aimed at getting AI-powered cars, trucks and commercial vehicles on the road, including partnerships with Aurora, Autoliv, Baidu, Bosch, Continental, Mercedes-Benz, Uber, Volkswagen, Volvo, Toyota, and ZF.\nIn addition, we introduced NVIDIA Jetson TX2, a high-performance, low-power computer platform for delivering AI at the edge, with deep learning and computer vision capabilities for robots, drones and smart cameras, the NVIDIA Isaac robot simulator for training intelligent machines in simulated real-world conditions before deployment, and the NVIDIA Metropolis platform, used by more than 50 partners to make cities safer and smarter by applying deep learning to surveillance video streams.\nCritical Accounting Policies and Estimates\nManagement’s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S",
+    "esg_label":"Social",
+    "esg_score":0.923
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We have extended our focus in recent years to the revolutionary field of artificial intelligence, or AI",
+    "esg_label":"Social",
+    "esg_score":0.916
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We have invested over $17 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.93
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Five of the six finalists for the Gordon Bell Prize, awarded by the Association for Computing Machinery for outstanding achievement in the field of computing for applications in science, engineering and large-scale data science, did their work on the NVIDIA-powered top-two supercomputers.\nThe world’s leading cloud service providers use our GPUs to enable, accelerate or enrich the services they deliver to billions of end-users, including search, social networking, online shopping, live video, translation, AI assistants, navigation, and cloud computing.\nA rapidly growing number of enterprises and startups use our GPUs to facilitate deep learning that meets, and in several cases surpasses, human perception, in fields ranging from radiology to precision agriculture",
+    "esg_label":"Social",
+    "esg_score":0.865
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions, and simulated environments",
+    "esg_label":"Social",
+    "esg_score":0.948
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans",
+    "esg_label":"Social",
+    "esg_score":0.891
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Machine learning is a related approach that leverages algorithms as well as data to learn how to make determinations or predictions, often used in data science",
+    "esg_label":"Social",
+    "esg_score":0.939
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"For example, an NVIDIA GPU-accelerated machine learning cluster for data science is 1\/8 the cost, 1\/15 the space, and 1\/18 the power of a traditional CPU-based cluster.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to enabling fraud detection in financial services, to optimizing oil exploration and drilling",
+    "esg_label":"Social",
+    "esg_score":0.947
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading cloud services companies such as Amazon, Baidu, and Facebook, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in transformative ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.933
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We have partnered with industry leaders such as IBM, Microsoft, Oracle, and SAP to bring AI to enterprise users",
+    "esg_label":"Social",
+    "esg_score":0.972
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI.\nTo enable deep learning and machine learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks",
+    "esg_label":"Social",
+    "esg_score":0.916
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"They have already had a significant impact on scientific discovery, including improving heart surgery, mapping human genome folds, seismic modeling, and weather simulations.\nAccelerated computing is recognized as the path forward for computing amid the slowing of Moore’s Law",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"AI can also be a co-pilot, assisting the human driver in creating a safer driving experience.\nNVIDIA is working with several hundred partners in the automotive ecosystem including automakers, truck makers, tier-one suppliers, sensor manufacturers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Our DRIVE platform scales from a palm-sized, energy-efficient module for automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end GPU computing platform for deep learning and machine learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.918
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and more than 3,600 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving.\nLeveraging our intellectual property",
+    "esg_label":"Social",
+    "esg_score":0.895
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Our Deep Learning Institute provides in-person and online training\nfor developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our GPU and CUDA platforms",
+    "esg_label":"Social",
+    "esg_score":0.967
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015",
+    "esg_label":"Social",
+    "esg_score":0.962
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1",
+    "text":"He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2019",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We invested over $20 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.938
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"In all, NVIDIA powers 136 of the TOP500 supercomputers.\nThe world’s leading cloud service providers use our GPUs to enable, accelerate or enrich the services they deliver to billions of end-users, including search, social networking, online shopping, live video, translation, AI assistants, navigation, and cloud computing.\nA rapidly growing number of enterprises and startups use our GPUs for deep learning that meets, and in several cases surpasses, human perception, in fields ranging from radiology to precision agriculture",
+    "esg_label":"Social",
+    "esg_score":0.892
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions, and simulated environments",
+    "esg_label":"Social",
+    "esg_score":0.948
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans",
+    "esg_label":"Social",
+    "esg_score":0.891
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Machine learning is a related approach that leverages algorithms as well as data to learn how to make determinations or predictions, often used in data science",
+    "esg_label":"Social",
+    "esg_score":0.939
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading cloud services companies such as Amazon, Baidu, and Facebook, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in transformative ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.933
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We partnered with industry leaders such as IBM, Microsoft, Oracle, SAP, and VMware to bring AI to enterprise users",
+    "esg_label":"Social",
+    "esg_score":0.959
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI.\nTo enable deep learning and machine learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks",
+    "esg_label":"Social",
+    "esg_score":0.916
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"AI can also be a co-pilot, assisting the human driver in creating a safer driving experience.\nNVIDIA is working with several hundred partners in the automotive ecosystem including automakers, truck makers, tier-one suppliers, sensor manufacturers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Our DRIVE platform scales from a palm-sized, energy-efficient module for automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end GPU computing platform for deep learning and machine learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.918
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and more than 3,600 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving.\nLeveraging our intellectual property",
+    "esg_label":"Social",
+    "esg_score":0.895
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our GPU and CUDA platforms",
+    "esg_label":"Social",
+    "esg_score":0.967
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as:\n•\nthe location in which our products are manufactured;\n•\nour strategic technology or product directions in different countries;\n•\nthe degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and\n•\nthe commercial significance of our operations and our competitors' operations in particular countries and regions.\nWe have also licensed technology from third parties and expect to continue to enter into such license agreements.\nEmployees\nAs of January 26, 2020, we had 13,775 employees, 9,823 of whom were engaged in research and development and 3,952 of whom were engaged in sales, marketing, operations, and administrative positions.\nEnvironmental Regulatory Compliance\nTo date, we have not incurred significant expenses related to environmental regulatory compliance matters.\nInformation About Our Executive Officers\nThe following sets forth certain information regarding our executive officers, their ages and positions as of February 14, 2020:\nJen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer and a member of the Board of Directors since our inception",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015",
+    "esg_label":"Social",
+    "esg_score":0.962
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1",
+    "text":"He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1A",
+    "text":"Our customers and suppliers within China and neighboring countries are also affected by the coronavirus related restrictions and closures",
+    "esg_label":"Social",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_1A",
+    "text":"Additionally, as of January 26, 2020, approximately 46% of our employees were located outside of the United States",
+    "esg_label":"Social",
+    "esg_score":0.858
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2020",
+    "item":"item_7",
+    "text":"Our customers and suppliers within China and neighboring countries are also affected by the coronavirus related restrictions and closures",
+    "esg_label":"Social",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We have invested over $24 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.931
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes",
+    "esg_label":"Environmental",
+    "esg_score":0.854
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans",
+    "esg_label":"Social",
+    "esg_score":0.891
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Machine learning is a related approach that leverages algorithms as well as data to learn how to make determinations or predictions, often used in data science",
+    "esg_label":"Social",
+    "esg_score":0.939
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"For both AI and HPC applications, the NVIDIA accelerated computing platform greatly increases the performance and power efficiency of high-performance computers and data centers.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to enabling fraud detection in financial services, to optimizing oil exploration and drilling",
+    "esg_label":"Social",
+    "esg_score":0.85
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading consumer internet and cloud services companies, which are using AI for critical tasks such as natural language processing and recommendation systems; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in transformative ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.967
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We partnered with industry leaders such as IBM, Microsoft, Oracle, SAP, and VMware to bring AI to enterprise users",
+    "esg_label":"Social",
+    "esg_score":0.959
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Our DRIVE platform scales from a palm-sized, energy-efficient module for automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We work to deliver continued performance leaps that outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, and software layers",
+    "esg_label":"Social",
+    "esg_score":0.956
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end accelerated computing platform for deep learning and machine learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and more than 7,000 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving.\nLeveraging our intellectual property",
+    "esg_label":"Social",
+    "esg_score":0.895
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of these potential impacts.\nHuman Capital Management\nWe believe that our employees are our greatest assets, and they play a key role in creating long-term value for our stakeholders",
+    "esg_label":"Social",
+    "esg_score":0.946
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"The primary ways in which we seek to do this are summarized below, in addition to an overview of employee programs we implemented in response to the COVID-19 pandemic.\nRecruitment\nThe demand for talent in new markets, such as AI and deep learning, is increasingly competitive",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We partner with higher education institutions globally to develop our candidate pipelines, recruit at industry conferences, and encourage our employees to submit referrals, with over 36% of hires coming from internal recommendations",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Collaborations with our community resource groups improve how we reach and attract minority candidates.\nDevelopment and Retention\nTo support employee advancement, we provide training on-the-job through coaching, feedback, and role modeling",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We have a rich library of live and on-demand learning experiences such as workshops, panel discussions, speaker-based forums, and internally focused technical conferences",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We curate learning libraries around our most common development needs, provide the latest technical platforms to support self-paced learning, and regularly listen to learner feedback through internal messaging channels to improve and update those topics",
+    "esg_label":"Social",
+    "esg_score":0.984
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We offer tuition reimbursement programs and subsidize advanced technical education programs and online technical certifications",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We encourage internal mobility through career expos and coaching, as well as foster mentorship connections and provide trained coaches as additional developmental support",
+    "esg_label":"Social",
+    "esg_score":0.991
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Our strong partnerships with internal community resource groups allow us to personalize programs to address specific career development needs.\nTo evaluate employee sentiment and engagement, we use several listening mechanisms such as pulse surveys, a suggestion box, and an anonymous third-party hotline.\nIn fiscal year 2021, our overall turnover rate was 3.8%.\nCompensation, Benefits, and Well-Being\nOur compensation program rewards performance and is structured to encourage employees to invest in the company’s future",
+    "esg_label":"Social",
+    "esg_score":0.96
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Employees receive equity (except where unavailable due to local regulations) that is tied to the value of our stock price and vests over time to retain employees while simultaneously aligning their interests with those of our stockholders.\nWe offer comprehensive benefits to support our employees’ and their families’ well-being, including 401(k) programs in the U.S., statutory pension programs outside the U.S., our employee stock purchase program, flexible work hours and time off, and programs to address mental health, stress, and time-management challenges",
+    "esg_label":"Social",
+    "esg_score":0.984
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We evaluate our benefit offerings globally and are committed to providing tailored benefits based on community needs, including assistance for military members, additional mental health benefits, and support for new birth parents, and those who wish to become parents.\nDiversity and Inclusion\nWe believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all employees, regardless of gender, gender identity or expression, veteran status, race, ethnicity, or ability.\nWe have increased our efforts to recruit, develop, and retain a more diverse workforce with a focus on those historically underrepresented in the technology field, including women, Black, and Hispanic candidates",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"In fiscal year 2021, we created the role of Head of Diversity, Inclusion, and Belonging, along with hiring a global diversity recruiting leader, and a Head of Strategic Initiatives to build our developer ecosystem and ensure it represents the global population.\nEfforts we are undertaking include:\n•Shepherding underrepresented candidates through the interviewing process, engaging employees from underrepresented communities for recruiting events and interview panels, and increased investment in minority-serving institutions and professional organizations.\n•Developing an internal slate of diverse talent for all open management positions, beginning semi-annual talent review sessions with executives to identify internal, diverse talent, and forming sponsorship and career acceleration programs.\n•Increasing inclusion communications and pulse surveys to measure employee sentiment.\nAs of January 31, 2021, our global workforce was 80% male and 20% female, and 6% of our workforce in the United States was composed of Black or African American, and Hispanic or Latino employees.\nSafety and COVID-19\nWe support our people and their families in making their health a top priority",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We implemented global protocols to slow the spread of COVID-19 and to keep our workforce safe by closing our offices around the world in March 2020 for all except essential workers",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"We provided our employees with resources to work remotely and continued to pay all employees and contractors",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"For essential labs and offices that remain open, we instituted appropriate safety protocols and social distancing guidelines",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1",
+    "text":"He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"We also must meet customer safety and compliance standards, which are subject to change, including those applicable to our automotive solutions and systems",
+    "esg_label":"Social",
+    "esg_score":0.924
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"Our critical business operations, including our headquarters, most of our finished goods inventory and many of our key suppliers are located in regions which have been impacted by COVID-19",
+    "esg_label":"Social",
+    "esg_score":0.923
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"Each of these countries and locations has been affected by the pandemic and has taken measures to try to contain it, including restrictions on manufacturing facilities, commerce, travel, on our support operations or workforce, or on our customers, partners, vendors and suppliers",
+    "esg_label":"Social",
+    "esg_score":0.965
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"We continue to evolve our business practices in response to the COVID-19 pandemic by supporting and providing resources to our employees who are working remotely and implementing stringent safety guidelines for those who go into the essential labs and offices that remain open",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_1A",
+    "text":"The CCPA gives California residents the right to access, delete and opt-out of certain sharing of their personal information, and to receive detailed information about how it is used and shared",
+    "esg_label":"Social",
+    "esg_score":0.971
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2021",
+    "item":"item_7",
+    "text":"Since March 2020, most of our employees have been working remotely and we have temporarily prohibited most business travel.\nOur Gaming and Data Center market platforms have benefited from stronger demand as people continue to work, learn, and play from home",
+    "esg_label":"Social",
+    "esg_score":0.978
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from large amounts of data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We have invested over $29 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.929
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"GPUs also help underpin the world’s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming",
+    "esg_label":"Social",
+    "esg_score":0.88
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes",
+    "esg_label":"Environmental",
+    "esg_score":0.854
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans - and in turn provide predictions in production use cases",
+    "esg_label":"Social",
+    "esg_score":0.909
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Machine learning is a related approach that leverages algorithms as well as data to learn how to make determinations or predictions, and is often used in data science",
+    "esg_label":"Social",
+    "esg_score":0.94
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"For both AI and HPC applications, the\nNVIDIA accelerated computing platform greatly increases the performance and power efficiency of high-performance computers and data centers.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as consumer product and service recommendations, to chatbots for the automation of or assistance with live customer interactions, to enabling fraud detection in financial services, to optimizing oil exploration and drilling",
+    "esg_label":"Social",
+    "esg_score":0.858
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading consumer internet and cloud services companies, enterprises and startups seeking to implement AI in transformative ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.959
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience",
+    "esg_label":"Social",
+    "esg_score":0.976
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Our DRIVE platform scales from a palm-sized, energy-efficient module for automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars",
+    "esg_label":"Environmental",
+    "esg_score":0.906
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We work to deliver continued performance leaps that outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, and software layers",
+    "esg_label":"Social",
+    "esg_score":0.956
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end accelerated computing platform for deep learning and machine learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and almost 10,000 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers and creators to connect and collaborate in leading design applications",
+    "esg_label":"Social",
+    "esg_score":0.94
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of these potential impacts.\nEnvironmental, Social and Corporate Governance\nNVIDIA invents computing technologies that improve lives and address global challenges",
+    "esg_label":"Environmental",
+    "esg_score":0.951
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We integrate sound environmental, social and corporate governance, or ESG, principles and practices into every aspect of the Company",
+    "esg_label":"Environmental",
+    "esg_score":0.942
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"The Nominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing with management our practices concerning ESG",
+    "esg_label":"Governance",
+    "esg_score":0.946
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"These issues are important for our continued business success and reflect the topics of highest concern to NVIDIA and our stakeholders.\nThe following section provides an overview of some of these principles and practices",
+    "esg_label":"Governance",
+    "esg_score":0.899
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"More information can be found on the Corporate Social Responsibility section of our website and in our annual Corporate Social Responsibility Report, or CSR Report",
+    "esg_label":"Social",
+    "esg_score":0.867
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of risks and uncertainties we face related to ESG.\nClimate Change\nIn the area of sustainability, we address our climate impacts across our product lifecycle and assess risks, including current and emerging regulations and market impacts.\nIn our CSR Report, we report several metrics related to our environmental impact, our most recent full reporting year being fiscal year 2021, with our fiscal year 2022 metrics expected to be published in May 2022",
+    "esg_label":"Environmental",
+    "esg_score":0.979
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"There has been no material impact to capital expenditures, our results of operations or competitive position associated with global sustainability regulations, compliance, or costs from sourcing renewable energy",
+    "esg_label":"Environmental",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"By the end of fiscal year 2025, our goal is to purchase or generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers.\nWhether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, improving energy efficiency is important in our research, development, and design processes",
+    "esg_label":"Environmental",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"The power efficiency of our products is evidenced by our continued strong presence on the Green500 list of the most energy-efficient systems",
+    "esg_label":"Environmental",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We powered 23 of the top 25 systems on the November 2021 Green500 list.\nWe plan to build Earth-2, an AI supercomputer dedicated to predicting the impacts of climate change",
+    "esg_label":"Environmental",
+    "esg_score":0.991
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"The system will build a digital twin of the Earth on our Omniverse platform, enable scientists to do ultra-high-resolution climate modeling, and put mitigation and adaptation tools into the hands of cities and nations so they can act with more urgency.\nHuman Capital Management\nWe believe that our employees are our greatest assets, and they play a key role in creating long-term value for our stakeholders",
+    "esg_label":"Social",
+    "esg_score":0.925
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"With differentiated hiring strategies for university, professional, executive, and for diversity, we have been successful in attracting top talent to NVIDIA.\nWe attract global talent from universities, collaborations with college programs, professional organization affiliations, industry conferences, community resource group participation, direct sourcing and outreach",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Our employees play an important part in recruiting, with over 39% of our new hires coming from employee referrals.\nDevelopment and Retention\nTo support employee advancement, we provide opportunities to learn on-the-job through training programs, one on one coaching and ongoing feedback",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We have a rich library of live and on-demand learning experiences that include workshops, panel discussions, and speaker forums",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We curate learning paths focused on our most common\ndevelopment needs and constantly upgrade our offerings to ensure that our employees are exposed to the most current programs and technologies available",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We offer tuition reimbursement programs to subsidize educational programs and advanced certifications",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We encourage internal mobility through career coaching that advises employees on developmental activities and pursuing internal transfer opportunities",
+    "esg_label":"Social",
+    "esg_score":0.967
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We have implemented specifically designed mentoring and development programs for women and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.\nTo evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Pulse surveys help us gain insight into employee experience and provide ideas so that we can prioritize areas to take action",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"The suggestion box is an always-on, interactive tool where employees share their thoughts about making our company a better place to work",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock price and vests over time to retain employees while simultaneously aligning their interests with those of our stockholders.\nWe offer comprehensive benefits to support our employees’ and their families’ physical health, well-being and financial health, including 401(k) programs in the U.S., statutory pension programs outside the U.S., our employee stock purchase program, flexible work hours and time off, and programs to address mental health, stress, and time-management challenges",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We evaluate our benefit offerings globally and are committed to providing tailored benefits based on community needs, including assistance for military members, additional mental health benefits, and support for new birth parents, and those who wish to become parents.\nDiversity and Inclusion\nWe believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all employees, regardless of gender, gender identity or expression, veteran status, race, ethnicity, or ability.\nWe have increased our efforts to recruit, develop, and retain a more diverse workforce with a focus on those historically underrepresented in the technology field, including women, Black\/African American, and Hispanic\/Latino candidates.\nOther efforts we have been or are undertaking include:\n•Expanded recruiting teams and deepened our college pipeline to engage more diverse students and partnering with minority-serving institutions and professional organizations;\n•Supported the development of women employees to build a pipeline of future leaders;\n•Supported underrepresented employees through our 11 internal community resource groups;\n•Providing training and education to managers and peers on how to foster a supportive environment; and\n•Measuring year over year progress and providing leadership visibility on diversity efforts.\nAs of January 30, 2022, our global workforce was 80% male, 19% female, and 1% not declared and 6% of our workforce in the United States was composed of Black or African American and Hispanic or Latino employees.\nHealth and COVID-19\nWe support our people and their families in making their health and safety a top priority",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"During fiscal year 2022 and the COVID-19 pandemic, we continued our global protocols to keep our workforce safe",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"For essential labs and offices that remain open, we maintained appropriate safety protocols and social distancing guidelines",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"We have also made some of our offices accessible based on a clearly defined set of metrics while adhering to government guidelines",
+    "esg_label":"Social",
+    "esg_score":0.981
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Steps we took to support employees include:\n•Providing work from home support, including reimbursement for home office equipment and certain work from home expenses;\n•Enhanced health coverage, including-COVID-19 testing, vaccine costs and support, expanded mental health resources and virtual care offerings, and care for those with COVID-19;\n•Learning and development resources on how to lead and manage remotely; and\n•Opportunities for employees to socially connect with one another virtually.\nWe will continue a flexible work environment and have instituted Company-wide “rest days” for employees to recharge.\nInformation About Our Executive Officers\nThe following sets forth certain information regarding our executive officers, their ages and positions as of March 11, 2022:\nJen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer and a member of the Board of Directors since our inception",
+    "esg_label":"Social",
+    "esg_score":0.981
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1",
+    "text":"Teter spent more than two decades at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.876
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Water and energy availability and reliability in the communities where we conduct business is critical",
+    "esg_label":"Environmental",
+    "esg_score":0.945
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Extreme heat and wind coupled with dry conditions in Northern California may lead to power safety shut offs due to wildfire risk",
+    "esg_label":"Environmental",
+    "esg_score":0.853
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Regulations such as carbon taxes, fuel or energy taxes, and pollution limits could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased levels of capital expenditures to improve facilities and equipment, and higher compliance and energy costs to reduce emissions, as well as greater indirect costs resulting from our customers, suppliers or both incurring additional compliance costs that are passed on to us",
+    "esg_label":"Environmental",
+    "esg_score":0.919
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"We may not achieve our stated goal to source 100% of our global electricity use from renewable energy by the end of fiscal year 2025, which could harm our reputation, or we may incur additional, unexpected costs to achieve such a goal",
+    "esg_label":"Environmental",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"The threat actors obtained NVIDIA network credentials and through deception, obtained two-factor authentication capability and access to our network",
+    "esg_label":"Social",
+    "esg_score":0.904
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Upon learning of the security incident, we engaged in remedial and preventative actions, rotated all NVIDIA network credentials to prevent further unauthorized access, hardened our network, analyzed the information that the threat actors exfiltrated, and notified law enforcement and other authorities.\nCyber-attacks, including ransomware attacks by organized criminal threat actors, nation-states, and nation-state-supported actors, may become more prevalent and severe",
+    "esg_label":"Social",
+    "esg_score":0.933
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"We must also continue to develop our security measures, ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers",
+    "esg_label":"Social",
+    "esg_score":0.921
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Labor is subject to external factors that are beyond our control, including our industry’s highly competitive market for skilled workers and leaders, cost inflation, the COVID-19 pandemic and workforce participation rates",
+    "esg_label":"Social",
+    "esg_score":0.892
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Changes in immigration and work permit regulations or in their administration or interpretation could impair our ability to attract and retain qualified employees",
+    "esg_label":"Social",
+    "esg_score":0.917
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations could limit our capacity to meet customer demand",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"These parties have placed increased importance on the implications of the social cost of their investments",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"Any sustainability report that we publish or other sustainability disclosures we make may include our policies and practices on a variety of social and ethical matters, including corporate governance, environmental compliance, employee health and safety practices, human capital management, product quality, supply chain management, and talent diversity and inclusion practices",
+    "esg_label":"Social",
+    "esg_score":0.964
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_1A",
+    "text":"It is possible that stakeholders may not be satisfied with our ESG practices or the speed of their adoption",
+    "esg_label":"Social",
+    "esg_score":0.914
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_7",
+    "text":"To date, there has been no material impact to our results of operations associated with global sustainability regulations, compliance, costs from sourcing renewable energy or climate-related business trends",
+    "esg_label":"Environmental",
+    "esg_score":0.986
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2022",
+    "item":"item_7",
+    "text":"There are no material current climate change regulations impacting us, however, we are monitoring potential regulation changes in California, the United States, the United Kingdom, the European Union and other jurisdictions",
+    "esg_label":"Environmental",
+    "esg_score":0.875
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from large amounts of data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We have invested over $37 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.925
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans - and in turn provide predictions in production use cases",
+    "esg_label":"Social",
+    "esg_score":0.909
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Machine learning is a related approach that leverages algorithms as well\nas data to learn how to make determinations or predictions",
+    "esg_label":"Social",
+    "esg_score":0.966
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"HPC, which includes scientific computing, uses numerical computational approaches to solve large and complex problems.\nWe are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as consumer product and service recommendations, to chatbots for the automation of or assistance with live customer interactions, to enabling fraud detection in financial services, to optimizing oil exploration and drilling",
+    "esg_label":"Social",
+    "esg_score":0.973
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"These organizations include the world’s leading consumer internet and cloud services companies, enterprises and startups seeking to implement AI in transformative ways across multiple industries",
+    "esg_label":"Social",
+    "esg_score":0.959
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes",
+    "esg_label":"Environmental",
+    "esg_score":0.854
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We work to deliver continued performance leaps that outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, interconnect, and software layers",
+    "esg_label":"Social",
+    "esg_score":0.945
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end accelerated computing platform for deep learning and machine learning, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and over 13,000 startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers and creators to connect and collaborate in leading design applications",
+    "esg_label":"Social",
+    "esg_score":0.94
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of these potential impacts.\nEnvironmental, Social and Corporate Governance\nNVIDIA invents computing technologies that improve lives and address global challenges",
+    "esg_label":"Environmental",
+    "esg_score":0.951
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Our goal is to integrate sound environmental, social and corporate governance, or ESG, principles and practices into every aspect of the Company",
+    "esg_label":"Environmental",
+    "esg_score":0.939
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"The Nominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing with management our practices related to ESG",
+    "esg_label":"Governance",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of risks and uncertainties we face related to ESG.\nClimate Change\nIn the area of sustainability, we address our climate impacts across our product lifecycle and assess risks, including current and emerging regulations and market impacts.\nIn our CR Report published in July 2022, we published metrics related to our environmental impact for fiscal year 2022",
+    "esg_label":"Environmental",
+    "esg_score":0.984
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"There has been no material impact to our capital expenditures, results of operations or competitive position associated with global sustainability regulations, compliance, or costs from sourcing renewable energy",
+    "esg_label":"Environmental",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"By the end of fiscal year 2025, our goal is to purchase or generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers.\nWhether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, improving energy efficiency is important in our research, development, and design processes",
+    "esg_label":"Environmental",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"The energy efficiency of our products is evidenced by our continued strong presence on the Green500 list of the most energy-efficient systems",
+    "esg_label":"Environmental",
+    "esg_score":0.992
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We powered 23 of the top 30 most energy efficient systems, including the top supercomputer, on the November 2022 Green500 list.\nWe plan to build Earth-2, a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms",
+    "esg_label":"Environmental",
+    "esg_score":0.925
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We have attracted strong talent globally with our differentiated hiring strategies for university, professional, executive and diverse recruits",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"The COVID-19 pandemic created expanded hiring opportunities in new geographies and provided increased\nflexibility for employees to work from locations of their choice",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Our workforce is about 80% technical and about 50% hold advanced degrees.\nEarlier in fiscal year 2023, we slowed our hiring to focus on our current employees and manage costs",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We maintain a connection for global talent from universities through on-campus collaborations with professors and student organizations, as well as engagement with technical organizations and participation at industry conferences",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Our own employees help to surface top talent, with over 37% of our new hires in fiscal year 2023 coming from employee referrals.\nDevelopment and Retention\nTo support employee development, we provide opportunities to learn on-the-job through training programs, one on one coaching and ongoing feedback",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We have a library of live and on-demand learning experiences that include workshops, panel discussions, and speaker forums",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We curate learning paths focused on our most common development needs and constantly upgrade our offerings to ensure that our employees are exposed to the most current programs and technologies available",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We offer tuition reimbursement programs to subsidize educational programs and advanced certifications",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We encourage internal mobility through career coaching that advises employees on developmental activities and internal transfer opportunities",
+    "esg_label":"Social",
+    "esg_score":0.968
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We have implemented specifically designed mentoring and development programs for women and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.\nTo evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Pulse surveys help us gain insight into employee experience and provide ideas so that we can prioritize areas to take action",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"The suggestion box is an always-on, interactive tool where employees share their thoughts about making our company a better place to work",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"The anonymous third-party platform is designed to protect the identity of the reporter and provide a mechanism for reporters to follow an investigation and receive responses.\nWe want NVIDIA to be a place where people can build their careers over their lifetime",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock price and vests over time to retain employees while simultaneously aligning their interests with those of our shareholders.\nWe offer comprehensive benefits to support our employees’ and their families’ physical health, well-being and financial health, including 401(k) programs in the U.S., statutory pension programs outside the U.S., our employee stock purchase program, flexible work hours and time off, and programs to address mental health, stress, and time-management challenges",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We evaluate our benefit offerings globally and aim to provide comparable support across the regions where we operate",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"We are committed to providing tailored benefits based on community needs, including assistance for military members, additional mental health benefits, and support for new birth parents, and those who wish to become parents.\nDiversity and Inclusion\nWe believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all employees.\nWhen recruiting for new talent or managing current talent, we focus on recruiting, developing, and retaining a more diverse workforce with a focus on those historically underrepresented in the technology field, including women, Black\/African American, and Hispanic\/Latino candidates.\nTo this end, we have been:\n•Partnering with institutions and professional organizations serving historically underrepresented communities;\n•Assigning dedicated recruiting teams to shepherd underrepresented candidates through the interview process;\n•Embedding inclusion recruiting partners throughout the business to help align candidates with internal opportunities;\n•Supporting the development of women employees through programs aimed at building a pipeline of future leaders;\n•Providing peer support and executive sponsors for nine internal community resource groups;\n•Providing training and education to managers and peers on fostering supportive environments and recruiting for diversity;\n•Ensuring we have and review a diverse pool of candidates for requisitions; and\n•Measuring year over year progress and providing leadership visibility on diversity efforts.\nAs of the end of fiscal year 2023, our global workforce was 80% male, 19% female, and 1% not declared, with 6% of our workforce in the United States composed of Black or African American and Hispanic or Latino employees.\nHealth and COVID-19\nWe supported our people and their families in making their health and safety a top priority during fiscal year 2023 and throughout the COVID-19 pandemic to keep our workforce safe.\nHybrid Working Environment\nWe support a hybrid work environment, understanding that many employees want the flexibility to work in the office or from home, and make that decision based on the conditions around them at any point in time.\nSteps we took to support employees working from home include:\n•Home-focused health and well-being programs;\n•Learning and development resources on how to work, lead and manage remotely; and\n•Opportunities for employees to socially connect with one another virtually.\nDuring fiscal year 2024, we will continue a flexible work environment and have instituted Company-wide “rest days” for employees to recharge.\nInformation About Our Executive Officers\nThe following sets forth certain information regarding our executive officers, their ages and positions as of February 17, 2023:\nJen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer and a member of the Board of Directors since our inception",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1",
+    "text":"Teter spent more than two decades at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.876
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"We must also continue to develop our security measures, ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers, applicable industry standards, and government regulations",
+    "esg_label":"Social",
+    "esg_score":0.922
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Regulations such as carbon taxes, fuel or energy taxes, and pollution limits could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased capital expenditures to improve facilities and equipment, and higher compliance and energy costs to reduce emissions, as well as greater indirect costs resulting from our customers, suppliers or both incurring additional compliance costs that are passed on to us",
+    "esg_label":"Environmental",
+    "esg_score":0.922
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"We may not achieve our stated goal to source 100% of our global electricity use from renewable energy by the end of fiscal year 2025, which could harm our reputation, or we may incur additional,\nunexpected costs to achieve such a goal",
+    "esg_label":"Environmental",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Labor is subject to external factors that are beyond our control, including our industry’s highly competitive market for skilled workers and leaders, cost inflation, the COVID-19 pandemic and workforce participation rates",
+    "esg_label":"Social",
+    "esg_score":0.892
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Changes in immigration and work permit regulations or in their administration or interpretation could impair our ability to attract and retain qualified employees",
+    "esg_label":"Social",
+    "esg_score":0.917
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"COVID-19-related disruptions have created and may continue to create supply chain and logistics constraints, and COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations",
+    "esg_label":"Social",
+    "esg_score":0.886
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Restrictions may be imposed or reinstated as the pandemic resurfaces, such as lockdown measures due to COVID-19 containment efforts in China",
+    "esg_label":"Social",
+    "esg_score":0.955
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"AI poses emerging ethical issues and presents risks and challenges that could affect its adoption, and therefore our business",
+    "esg_label":"Governance",
+    "esg_score":0.907
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_1A",
+    "text":"Additionally, several states and localities have enacted measures related to the use of artificial intelligence and machine learning in products and services",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2023",
+    "item":"item_7",
+    "text":"We incurred incremental expenses and related in-office costs as we ramped onsite services.\nRestrictions may be imposed or reinstated as the pandemic resurfaces, such as lockdown measures due to COVID-19 containment efforts in China",
+    "esg_label":"Social",
+    "esg_score":0.947
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from large amounts of data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We have invested over $45.3 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.931
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and algorithms",
+    "esg_label":"Social",
+    "esg_score":0.952
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The enterprise software industry uses them for new AI assistants and chatbots; the transportation industry for autonomous driving; the healthcare industry for accelerated and computer-aided drug discovery; and the financial services industry for customer support and fraud detection.\nResearchers and developers use our computing solutions to accelerate a wide range of important applications, from simulating molecular dynamics to climate forecasting",
+    "esg_label":"Social",
+    "esg_score":0.858
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We work with industry leaders to help build or transform their applications and data center infrastructure",
+    "esg_label":"Social",
+    "esg_score":0.958
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes",
+    "esg_label":"Environmental",
+    "esg_score":0.854
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We work to deliver continued performance leaps that outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, interconnect, and software layers",
+    "esg_label":"Social",
+    "esg_score":0.945
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end accelerated computing platform for AI, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and thousands of startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications",
+    "esg_label":"Social",
+    "esg_score":0.942
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"For example, our solution architects work with CSPs to provide pre-sales assistance to optimize their hardware and software infrastructure for generative AI and LLM training and deployment",
+    "esg_label":"Social",
+    "esg_score":0.963
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing",
+    "esg_label":"Social",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of these potential impacts.\nSustainability and Governance\nNVIDIA invents computing technologies that improve lives and address global challenges",
+    "esg_label":"Social",
+    "esg_score":0.965
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Our goal is to integrate sound environmental, social, and corporate governance principles and practices into every aspect of the Company",
+    "esg_label":"Environmental",
+    "esg_score":0.925
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The Nominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing with management our practices related to sustainability and corporate governance",
+    "esg_label":"Governance",
+    "esg_score":0.961
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of risks and uncertainties we face related to sustainability.\nClimate Change\nIn the area of environmental sustainability, we address our climate impacts across our product lifecycle and assess risks, including current and emerging regulations and market impacts.\nIn May 2023, we published metrics related to our environmental impact for fiscal year 2023",
+    "esg_label":"Environmental",
+    "esg_score":0.984
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"There has been no material impact to our capital expenditures, results of operations or competitive position associated with global environmental sustainability regulations, compliance, or costs from sourcing renewable energy",
+    "esg_label":"Environmental",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"By the end of fiscal year 2025, our goal is to purchase\nor generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers",
+    "esg_label":"Environmental",
+    "esg_score":0.991
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"In fiscal year 2023, we increased the percentage of our total electricity use matched by renewable energy purchases to 44%",
+    "esg_label":"Environmental",
+    "esg_score":0.992
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"By fiscal year 2026, we aim to engage manufacturing suppliers comprising at least 67% of NVIDIA’s scope 3 category 1 GHG emissions with goal of effecting supplier adoption of science-based targets.\nWhether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, improving energy efficiency is important in our research, development, and design processes",
+    "esg_label":"Environmental",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The energy efficiency of our products is evidenced by our continued strong presence on the Green500 list of the most energy-efficient systems",
+    "esg_label":"Environmental",
+    "esg_score":0.992
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We powered 24 of the top 30 most energy efficient systems, including the top supercomputer, on the Green500 list.\nWe plan to build Earth-2, a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms",
+    "esg_label":"Environmental",
+    "esg_score":0.909
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"As of the end of fiscal year 2024, we had approximately 29,600 employees in 36 countries, 22,200 were engaged in research and development and 7,400 were engaged in sales, marketing, operations, and administrative positions",
+    "esg_label":"Social",
+    "esg_score":0.905
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The Compensation Committee of our Board of Directors assists in the oversight of policies and strategies relating to human capital management.\nTo be competitive and execute our business strategy successfully, we must recruit, develop, and retain talented employees, including qualified executives, scientists, engineers, and technical and non-technical staff.\nRecruitment\nAs the demand for global technical talent continues to be competitive, we have grown our technical workforce and have been successful in attracting top talent to NVIDIA",
+    "esg_label":"Social",
+    "esg_score":0.903
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We have attracted talent globally through our strong employer brand and differentiated hiring strategies for college, professional, and leadership talent",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Additionally, we have increased focus on diversity recruiting, resulting in an increase in global female hiring in each channel",
+    "esg_label":"Social",
+    "esg_score":0.983
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Our own employees help to surface top talent, with over 40% of our new hires in fiscal year 2024 coming from employee referrals.\nDevelopment and Retention\nTo support employee development, we provide opportunities to learn on-the-job through training courses, targeted development programs, mentoring and peer coaching and ongoing feedback",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We have a library of live and on-demand learning experiences that include workshops, panel discussions, and speaker forums",
+    "esg_label":"Social",
+    "esg_score":0.987
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We create learning paths focused on our most common development needs and constantly upgrade our offerings to ensure that our employees are exposed to the most current content and technologies available",
+    "esg_label":"Social",
+    "esg_score":0.981
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We offer tuition reimbursement programs to subsidize educational programs and advanced certifications",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We implemented a career coaching service to provide one-on-one guidance to employees, and encourage internal job mobility",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We have implemented specifically designed mentoring and development programs for women and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.\nTo evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Pulse surveys help us gain insight into employee experience and provides employee-generated ideas so that we can take targeted action",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The suggestion box is an always-on, interactive tool where employees share their thoughts about making our company a better place to work",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"The anonymous third-party platform is designed to protect the identity of the reporter and provide a mechanism for reporters to follow an investigation and receive responses.\nWe want NVIDIA to be a place where people can build their careers over their lifetime",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock price and vests over time to retain employees while simultaneously aligning their interests with those of our shareholders.\nWe offer comprehensive benefits to support our employees’ and their families’ physical health, well-being, and financial health",
+    "esg_label":"Social",
+    "esg_score":0.983
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Programs include 401(k) programs in the U.S., statutory and supplemental pension programs outside the U.S., our employee stock purchase program, flexible work hours, and time off policies to address mental health, stress, and time-management challenges",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We evaluate our benefit offerings globally and aim to provide comparable support across the regions where we operate",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"We are committed to providing tailored benefits based on the needs of our Community Resource Groups and continuing our support for parents, both new birth parents and those who wish to become parents.\nOur support is enhanced during times of crisis, such as war or economic volatility, to take care of our existing team of world-class talent and their families.\nDiversity, Inclusion, and Belonging\nWe believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all employees.\nWhen recruiting for new talent or developing our current employees, we strive to build a diverse talent pipeline that includes those underrepresented in the technology field, including women, Black\/African American, and Hispanic\/Latino candidates.\nTo this end, we have been:\n•Partnering with institutions and professional organizations serving historically underrepresented communities;\n•Embedding dedicated recruiting teams to business areas to shepherd underrepresented candidates through the interview process and find internal opportunities;\n•Supporting the development of women employees through programs aimed at building a pipeline of future leaders;\n•Providing peer support and executive sponsors for our internal community resource groups;\n•Providing training and education to managers and peers on fostering supportive environments and recruiting for diversity;\n•Track equity and parity in retention, promotions, pay, and employee engagement scores; and\n•Measuring year over year progress and providing leadership visibility on diversity efforts.\nAs of the end of fiscal year 2024, our global workforce was 79% male, 20% female, and 1% not declared, with 6% of our workforce in the United States composed of Black or African American and Hispanic or Latino employees.\nFlexible Working Environment\nWe support a flexible work environment, understanding that many employees want the ability to work from home under certain conditions",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1",
+    "text":"Teter spent more than two decades at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.876
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"We will have a broader and faster Data Center product launch cadence to meet a growing and diverse set of AI opportunities",
+    "esg_label":"Social",
+    "esg_score":0.929
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Additionally, some actors are using AI technology to launch more automated, targeted and coordinated attacks",
+    "esg_label":"Social",
+    "esg_score":0.977
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"We must also continue to develop our security measures, including training programs and security awareness initiatives, designed to ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers, applicable industry standards, and government regulations",
+    "esg_label":"Social",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Further, in connection with the conflict, a substantial number of our employees in the region have been called-up for active military duty in Israel",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"New or proposed regulations relating to carbon taxes, fuel or energy taxes, pollution limits, sustainability-related disclosure and governance and supply chain governance could result in greater direct costs, including costs associated with changes to manufacturing processes or the procurement of raw materials used in manufacturing processes, increased capital expenditures to improve facilities and equipment, and higher compliance and energy costs to reduce emissions, other compliance costs, as well as greater indirect costs resulting from our customers and\/or suppliers incurring additional compliance costs that are passed on to us",
+    "esg_label":"Environmental",
+    "esg_score":0.891
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Changes in immigration and work permit regulations or in their administration or interpretation could impair our ability to attract and retain qualified employees",
+    "esg_label":"Social",
+    "esg_score":0.917
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Governments and regulators are considering imposing restrictions on the hardware, software, and systems used to develop frontier foundation models and generative AI",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"The license process for exports to D1 and D4 countries has been time-consuming and resulted in license conditions for countries outside China",
+    "esg_label":"Social",
+    "esg_score":0.926
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"semiconductors from their products to reduce the compliance burden and risk, and to ensure that they are able to serve markets worldwide",
+    "esg_label":"Social",
+    "esg_score":0.936
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Additionally, several states and localities have enacted measures related to the use of artificial intelligence and machine learning in products and services",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1A",
+    "text":"Data broadly defined as important under China’s law, including personal data, may not be transferable outside of China without prior assessment and approval by the Cyberspace Administration of China, or CAC",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"Our information security management program generally follows processes outlined in frameworks such as the ISO 27001 international standard for Information Security and we evaluate and evolve our security measures as appropriate",
+    "esg_label":"Social",
+    "esg_score":0.905
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"We routinely assess our high-risk suppliers’ conformance to industry standards (e.g., ISO 27001, ISO 28001, and C-TPAT), and we evaluate them for additional information, product, and physical security requirements.\nRefer to “Item 1A",
+    "esg_label":"Social",
+    "esg_score":0.936
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"Risk factors” in this annual report on Form 10-K for additional information about cybersecurity-related risks.\nGovernance\nInformation security matters, including managing and assessing risks from cybersecurity threats, remain under the oversight of the Company’s Board of Directors, or the Board",
+    "esg_label":"Governance",
+    "esg_score":0.884
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"The Audit Committee receives regular information security updates from management, including our Chief Security Officer and members of our security team",
+    "esg_label":"Governance",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"We have established a cross-functional leadership team, consisting of executive-level leaders, that meets regularly to review cybersecurity matters and evaluate emerging threats",
+    "esg_label":"Social",
+    "esg_score":0.907
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_1C",
+    "text":"Our Chief Security Officer’s cybersecurity expertise includes over 17 years of combined government and private sector assignments.",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_7",
+    "text":"We will have a broader and faster Data Center product launch cadence to meet a growing and diverse set of AI opportunities",
+    "esg_label":"Social",
+    "esg_score":0.929
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_7",
+    "text":"Within our supply chain, we continuously manage product availability and costs with our vendors. \nIsrael and Hamas Conflict\nWe are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 3,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2024",
+    "item":"item_7",
+    "text":"Further, in connection with the conflict, a substantial number of our employees in the region have been called-up for active military duty in Israel",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"This form of AI, in which software writes itself by learning from large amounts of data, can serve as the brain of computers, robots, and self-driving cars that can perceive and understand the world",
+    "esg_label":"Social",
+    "esg_score":0.943
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We have invested over $58.2 billion in research and development since our inception, yielding inventions that are essential to modern computing",
+    "esg_label":"Social",
+    "esg_score":0.928
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"With a strong engineering culture, we drive fast, yet harmonized, product and technology innovations in all dimensions of computing including silicon, systems, networking, software and algorithms",
+    "esg_label":"Social",
+    "esg_score":0.952
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"The enterprise software industry uses them for new AI assistants, chatbots, and agents; the transportation industry for autonomous driving; the healthcare industry for accelerated and computer-aided drug discovery; and the financial services industry for customer support and fraud detection.\nResearchers and developers use our computing solutions to accelerate a wide range of important applications, from simulating molecular dynamics to climate forecasting",
+    "esg_label":"Social",
+    "esg_score":0.883
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We work with industry leaders to help build or transform their applications and data center infrastructure",
+    "esg_label":"Social",
+    "esg_score":0.958
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes",
+    "esg_label":"Environmental",
+    "esg_score":0.854
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We work to deliver continued performance leaps that outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, interconnect, algorithm, and software layers",
+    "esg_label":"Social",
+    "esg_score":0.956
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We provide a complete, end-to-end accelerated computing platform for AI, addressing both training and inferencing",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We evangelize AI through partnerships with hundreds of universities and thousands of startups through our Inception program",
+    "esg_label":"Social",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications",
+    "esg_label":"Social",
+    "esg_score":0.942
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"For example, our solution architects work with CSPs to provide pre-sales assistance to enable our customers to optimize their hardware and software infrastructure for generative AI and LLM training and deployment",
+    "esg_label":"Social",
+    "esg_score":0.908
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We use the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing",
+    "esg_label":"Social",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of these potential impacts.\nSustainability and Governance\nNVIDIA invents computing technologies that improve lives and address global challenges",
+    "esg_label":"Social",
+    "esg_score":0.965
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Our goal is to integrate sound environmental, social, and corporate governance principles and practices into every aspect of the Company",
+    "esg_label":"Environmental",
+    "esg_score":0.925
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"The Nominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing with management our practices related to sustainability and corporate governance",
+    "esg_label":"Governance",
+    "esg_score":0.961
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Risk Factors” for a discussion of risks and uncertainties we face related to sustainability.\nClimate Change\nIn the area of environmental sustainability, we work to address our climate impacts across our product lifecycle and assess related risks, including current and emerging regulations and market impacts.\nIn May 2024, we published metrics related to our environmental impact for fiscal year 2024",
+    "esg_label":"Environmental",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"There has been no material impact to our capital expenditures, results of operations or competitive position associated with global environmental sustainability regulations, compliance, or costs from sourcing renewable energy",
+    "esg_label":"Environmental",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We committed to purchase or generate enough renewable energy to match 100% of our global electricity usage for offices and data centers under our operational control starting with our fiscal year 2025",
+    "esg_label":"Environmental",
+    "esg_score":0.992
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"In fiscal year 2024, we made progress towards this goal and increased the percentage of our electricity use matched by renewable energy to 76%",
+    "esg_label":"Environmental",
+    "esg_score":0.993
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"By the end of fiscal year 2026, we also aim to engage manufacturing suppliers comprising at least 67% of NVIDIA’s scope 3 category 1 GHG emissions with the goal of effecting supplier adoption of science-based targets.\nWhether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, improving energy efficiency is important in our research, development, and design processes",
+    "esg_label":"Environmental",
+    "esg_score":0.989
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We continue to have a strong presence on the Green500 list of the most energy-efficient systems-we powered 8 of the top 10 most energy efficient systems, including the top supercomputer, on the November 2024 Green500 list.\nWe launched our Earth-2 initiative to create a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms",
+    "esg_label":"Environmental",
+    "esg_score":0.965
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"As of the end of fiscal year 2025, we had approximately 36,000 employees in 38 countries; 27,100 were engaged in research and development and 8,900 were engaged in sales, marketing, operations, and administrative positions",
+    "esg_label":"Social",
+    "esg_score":0.915
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"The Compensation Committee of our Board of Directors assists in the oversight of policies and strategies relating to human capital management.\nTo execute our business strategy successfully, we must recruit, develop, and retain the very best talent globally, including exceptional executives, scientists, engineers, and technical and non-technical staff.\nRecruitment\nAs the demand for global technical talent continues to be high, we have grown our technical workforce and have been successful in attracting top talent to NVIDIA",
+    "esg_label":"Social",
+    "esg_score":0.957
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We have attracted talent worldwide through our strong employer brand and differentiated hiring strategies for college, professional, and leadership talent",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Additionally, we have increased our focus on diversity recruiting and we welcome employees of all backgrounds",
+    "esg_label":"Social",
+    "esg_score":0.982
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 coming from employee referrals.\nDevelopment and Retention\nTo support employee development, we provide opportunities to learn on-the-job through training courses, targeted development programs, mentoring and peer coaching and ongoing feedback",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We constantly upgrade our learning offerings to ensure that our employees are exposed to the most current content and technologies available",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We offer tuition reimbursement programs to subsidize educational programs and advanced certifications and encourage internal job mobility",
+    "esg_label":"Social",
+    "esg_score":0.991
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We have also implemented specifically designed mentoring and development programs for women and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.\nTo evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party platform",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We want NVIDIA to be a place where people can grow their careers over their lifetime and our employees tend to come and stay",
+    "esg_label":"Social",
+    "esg_score":0.99
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock price and vests over time to retain employees while simultaneously aligning their interests with those of our shareholders.\nWe offer comprehensive benefits to support our employees’ and their families’ physical health, well-being, and financial health",
+    "esg_label":"Social",
+    "esg_score":0.983
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Programs include 401(k) programs in the U.S., statutory and supplemental pension programs outside the U.S., our employee stock purchase program, flexible work hours, and time off policies",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We evaluate our benefit offerings globally and aim to provide comparable support across the regions where we operate",
+    "esg_label":"Social",
+    "esg_score":0.969
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"We offer tailored benefits based on the needs of our employees including continuing support for parents; both new birth parents and those who wish to become parents",
+    "esg_label":"Social",
+    "esg_score":0.991
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Our support is enhanced during times of crisis, such as war or economic volatility, to take care of our existing team of world-class talent and their families.\nDiversity, Inclusion and Belonging at NVIDIA\nWe believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all our employees.\nWhen recruiting new talent or developing our current employees, we strive to build a diverse talent pipeline that includes those underrepresented in the technology field, including women, Black\/African American, and Hispanic\/Latino candidates.\nTo this end, we:\n•Hire, promote and compensate our employees based on merit;\n•Partner with institutions and professional organizations serving historically underrepresented communities;\n•Enlist dedicated recruiting teams to shepherd underrepresented candidates through the interview process and identify internal opportunities;\n•Support the development and growth of women employees through programs aimed at building a pipeline of future leaders;\n•Provide peer support and executive sponsors for our internal community resource groups;\n•Provide training and education to managers and peers on fostering supportive environments that allow all our employees to do their best work;\n•Track equity and parity in retention, promotions, pay, and employee engagement scores; and\n•Measure year over year progress and provide leadership visibility on talent and diversity efforts.\nAs of the end of fiscal year 2025, our global workforce was 78% male, 21% female, and 1% not declared, with 6% of our workforce in the United States composed of Black or African American and Hispanic or Latino employees.\nFlexible Working Environment\nWe support a flexible work environment allowing us to recruit the very best employees, regardless of where they live",
+    "esg_label":"Social",
+    "esg_score":0.985
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"This flexibility supports diverse hiring, retention of talent, including working parents and other caregivers and employee engagement, which we believe makes NVIDIA a great place to work",
+    "esg_label":"Social",
+    "esg_score":0.988
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions",
+    "esg_label":"Social",
+    "esg_score":0.859
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1",
+    "text":"Teter spent more than two decades at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters",
+    "esg_label":"Social",
+    "esg_score":0.876
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"The increased purchase volumes and integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production planning, execution and logistics",
+    "esg_label":"Social",
+    "esg_score":0.882
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Additionally, some actors are using AI technology to launch more automated, targeted and coordinated attacks",
+    "esg_label":"Social",
+    "esg_score":0.977
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"We must also continue to develop our security measures, including training programs and security awareness initiatives, designed to ensure our suppliers have appropriate security measures in place, and continue to meet the evolving security requirements of our customers, applicable industry standards, and government regulations",
+    "esg_label":"Social",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Catastrophic events can also have an impact on third-party vendors who provide us critical infrastructure services for IT and research and development systems and personnel",
+    "esg_label":"Social",
+    "esg_score":0.868
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Some of our employees in the region have been on active military duty for an extended period and may continue to be absent, which may cause disruption to our product development or operations",
+    "esg_label":"Social",
+    "esg_score":0.955
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"However, labor is subject to external factors that are beyond our control, including our industry’s highly competitive market for skilled workers and leaders, and workforce participation rates",
+    "esg_label":"Social",
+    "esg_score":0.858
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Changes in immigration and work permit regulations, or in their administration or interpretation, could impair our ability to attract and retain qualified employees",
+    "esg_label":"Social",
+    "esg_score":0.913
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"The license process for exports to D1 and D4 countries has been time-consuming and resulted in license conditions that are onerous, even for small-sized systems that are not able to train frontier AI models",
+    "esg_label":"Social",
+    "esg_score":0.942
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"semiconductors from their products to reduce the compliance burden and risk, and to ensure that they are able to serve markets worldwide",
+    "esg_label":"Social",
+    "esg_score":0.936
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Additionally, several states and localities have enacted measures related to the use of AI and machine learning in products and services",
+    "esg_label":"Social",
+    "esg_score":0.972
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Additionally, Europe’s Network and Information Security Directive, or NIS2, regulates resilience and incident response capabilities of entities operating in a number of sectors, including the digital infrastructure sector",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1A",
+    "text":"Data broadly defined as important under China’s law, including personal data, may not be transferable outside of China without prior assessment and approval by the Cyberspace Administration of China, or CAC",
+    "esg_label":"Social",
+    "esg_score":0.861
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"Our information security management program generally follows processes outlined in frameworks such as the ISO 27001 international standard for Information Security and we evaluate and evolve our security measures as appropriate",
+    "esg_label":"Social",
+    "esg_score":0.905
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"We routinely assess our high-risk suppliers’ conformance to industry standards (e.g., ISO 27001, ISO 28001, and C-TPAT), and we evaluate them for additional information, product, and physical security requirements.\nRefer to “Item 1A",
+    "esg_label":"Social",
+    "esg_score":0.936
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"Risk factors” in this annual report on Form 10-K for additional information about cybersecurity-related risks.\nGovernance\nInformation security matters, including managing and assessing risks from cybersecurity threats, remain under the oversight of the Company’s Board of Directors, or the Board",
+    "esg_label":"Governance",
+    "esg_score":0.884
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"The Audit Committee receives regular information security updates from management, including our Chief Security Officer and members of our security team",
+    "esg_label":"Governance",
+    "esg_score":0.949
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"We have established a cross-functional leadership team, consisting of executive-level leaders, that meets regularly to review cybersecurity matters and evaluate emerging threats",
+    "esg_label":"Social",
+    "esg_score":0.907
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_1C",
+    "text":"Our Chief Security Officer’s cybersecurity expertise includes over 17 years of combined government and private sector assignments.",
+    "esg_label":"Social",
+    "esg_score":0.98
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_7",
+    "text":"The increased purchase volumes and integration of new suppliers and contract manufacturers into our supply chain creates more complexity in managing multiple suppliers with variations in production planning, execution and logistics",
+    "esg_label":"Social",
+    "esg_score":0.882
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_7",
+    "text":"Within our supply chain, we continuously manage product availability and costs with our vendors.\nIsrael and Regional Conflicts\nWe are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products",
+    "esg_label":"Social",
+    "esg_score":0.974
+  },
+  {
+    "company":"NVIDIA CORP",
+    "year":"2025",
+    "item":"item_7",
+    "text":"Some of our employees in the region have been on active military duty for an extended period and may continue to be absent, which may cause disruption to our product development or operations",
+    "esg_label":"Social",
+    "esg_score":0.955
+  }
+]

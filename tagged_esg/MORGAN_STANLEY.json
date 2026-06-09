@@ -1,0 +1,74 @@
+[
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1",
+    "text":"We have implemented policies, procedures and internal controls that are designed to comply with all applicable AML laws and regulations",
+    "esg_label":"Governance",
+    "esg_score":0.923
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Regarding Sanctions, we have implemented policies, procedures and internal controls that are designed to comply with the regulations and economic sanctions programs administered by the U.S",
+    "esg_label":"Governance",
+    "esg_score":0.863
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Treasury’s Office of Foreign Assets Control (“OFAC”), which target foreign countries, entities and individuals based on external threats to U.S",
+    "esg_label":"Social",
+    "esg_score":0.945
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1",
+    "text":"In particular, we are subject to the Federal Reserve’s guidance that is designed to help ensure that incentive compensation paid by banking organizations does not encourage imprudent risk taking that threatens the organizations’ safety and soundness",
+    "esg_label":"Governance",
+    "esg_score":0.9
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1",
+    "text":"Interim Chief Risk Officer (January 2011 to May 2011) and Head of Market Risk Department (March 2008 to April 2014)",
+    "esg_label":"Governance",
+    "esg_score":0.88
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1A",
+    "text":"Additional challenges are posed by external extremist parties, including foreign state actors, in some circumstances as a means to promote political ends",
+    "esg_label":"Social",
+    "esg_score":0.954
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1A",
+    "text":"Further, through these activities we are exposed to regulatory, physical and certain indirect risks associated with climate change.\nAlthough we have attempted to mitigate our environmental risks by, among other measures, selling or ceasing most of our prior petroleum storage and transportation activities, adopting appropriate policies and procedures, and implementing emergency response programs, these actions may not prove adequate to address every contingency",
+    "esg_label":"Environmental",
+    "esg_score":0.978
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1A",
+    "text":"We have policies, procedures and controls that are designed to identify and address potential conflicts of interest",
+    "esg_label":"Governance",
+    "esg_score":0.939
+  },
+  {
+    "company":"MORGAN STANLEY",
+    "year":"2016",
+    "item":"item_1A",
+    "text":"However, identifying and mitigating potential conflicts of interest can be complex and challenging, and can become the focus of media and regulatory scrutiny",
+    "esg_label":"Governance",
+    "esg_score":0.906
+  }
+]
